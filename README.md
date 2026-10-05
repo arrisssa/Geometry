@@ -1,21 +1,26 @@
-# **Geometry**
-## Файлы:
-- circle.py
-- square.py
-- parallelogram.py
-- trapezoid.py
-
-## Формулы
-### Circle  
-- Area: S = πR<sup>2</sup>
-- Perimetr: P = 2πR
-### Square
-- Area: S = a<sup>2</sup>
-- Perimetr: P = 4 * a
-### Parallelogram
-- Area: S = a * aH
-- Perimetr: P = 2 * (a + b)
-### Trapezoid
-- Area: S = (a + b) * 0.5 * h
-- Midline: M = (a + b) * 0.5
- 
+# Лабораторная работа по Гит №2
+Данный репозиторий *Geometry* представляет собой функции для нахождения необходимых параметров для тех или иных фигур и документацию по проекту, в которую входят:
+- [история коммитов](docs/commits.md)
+- [описание функций, представленных в репозитории](docs/functions.md)
+- [общее описание выаолнения лабороторной работы](docs/description.md)
+## Работа с репозиторием
+- Склонируйте репозиторий в нужную вкладку
+```
+https://github.com/arrisssa/Geometry.git
+```
+-Перейдите в корневую папку репозитория и откройте нужный файл
+## Структура репозитория
+```
+Geometry/
+├── docs/ 
+│   ├── commits.md
+│   ├── description.md
+│   └── functions.md
+├── square.py
+├── circle.py
+├── rectangle.py
+├── trapezoid.py
+└── README.md 
+```
+## Автор проекта
+- Муллина Альмира
